@@ -22,6 +22,8 @@ public class GatoService {
         gatos.add(gizmo);
         gatos.add(jojo);
         gatos.add(grandao);
+        gatos.add(jujuba);
+
         return gatos;
     }
 
